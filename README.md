@@ -17,12 +17,12 @@ I bridge the gap between business requirements and technical execution. With a b
 - **Communication:** Stakeholder Management, Team Leadership, Cross-functional Collaboration.
 
 ## 📂 Featured Case Studies (Portfolio)
-* **Swire Coca-Cola Vietnam SAP SuccessFactors Migration to HongKong SAP SuccessFactors**: Deliver on-time and quality among complexities of integrations. 
-* **Sacombank International Payments Business Process Automation**: Deliver within 6 months among complexities of business processes and requirements, UI/UX, CI/DC complex requirements
-* **Citibank Credit Management Systems Transition to UOB**: effective cross-functional communication to meet the date of transition
-* **Sacombank HCM Project Implemtation**: Meet the project timelines and 30% cost saving; Deliver 29 years of historical data migration
-* **Tan Cang Saigon Oracle Transportation Management Implementation**: Deliver Go-live date after all biggest challenges
-* **ISO27k Consulting Projects for Local Banks**: Deliver ISO27k Certificate
+* **Swire Coca-Cola Vietnam SAP SuccessFactors Migration to HongKong SAP SuccessFactors**: Successfully migrated Swire Coca-Cola’s SAP SuccessFactors to the Hong Kong hub, ensuring 100% data integrity and on-time delivery despite complex regional system integrations.
+* **Sacombank International Payments Business Process Automation**: Automated International Payment processes within a strict 6-month timeline, navigating intricate business logic and implementing a modern UI/UX while maintaining a complex CI/CD pipeline.
+* **Citibank Credit Management Systems Transition to UOB**: Orchestrated cross-functional communication and technical alignment to ensure a seamless Credit Management Systems transition from Citibank to UOB on schedule.
+* **Sacombank HCM Project Implemtation**: Led the HCM System implementation, achieving 30% cost savings and successfully migrating 29 years of legacy historical data while meeting all critical milestones.
+* **Tan Cang Saigon Oracle Transportation Management Implementation**: Steered the Oracle Transportation Management (OTM) implementation to a successful Go-live, overcoming significant technical and operational roadblocks.
+* **ISO27k Consulting Projects for Local Banks**: Consulted and steered multiple local banks through the ISO/IEC 27001 certification process, ensuring full compliance and successful final accreditation.
 
 ---
 
