@@ -17,8 +17,12 @@ I bridge the gap between business requirements and technical execution. With a b
 - **Communication:** Stakeholder Management, Team Leadership, Cross-functional Collaboration.
 
 ## 📂 Featured Case Studies (Portfolio)
-* **[Project Name A]**: Reduced delivery time by 20% using Agile transformation. [Link to Folder/Repo]
-* **[Project Name B]**: Managed a budget of $100k for a cross-platform e-commerce solution. [Link to Folder/Repo]
+* **Swire Coca-Cola Vietnam SAP SuccessFactors Migration to HongKong SAP SuccessFactors**: Deliver on-time and quality among complexities of integrations. 
+* **Sacombank International Payments Business Process Automation**: Deliver within 6 months among complexities of business processes and requirements, UI/UX, CI/DC complex requirements
+* **Citibank Credit Management Systems Transition to UOB**: effective cross-functional communication to meet the date of transition
+* **Sacombank HCM Project Implemtation**: Meet the project timelines and 30% cost saving; Deliver 29 years of historical data migration
+* **Tan Cang Saigon Oracle Transportation Management Implementation**: Deliver Go-live date after all biggest challenges
+* **ISO27k Consulting Projects for Local Banks**: Deliver ISO27k Certificate
 
 ---
 
